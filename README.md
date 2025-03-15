@@ -1,16 +1,16 @@
-## Hi there 👋
+Hello!
 
-<!--
-**MelonInside/MelonInside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Valya. I am a 2D/3D artist passionate about creating illustrations, mainly characters. ✨
 
-Here are some ideas to get you started:
+🎨 What I can do:
+Character concept art 🖌️
+Vector icons 🎭
+3D models 🏗️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with Photoshop and Blender, combining traditional and digital techniques to create unique artworks.
+
+📌 Where to see my work:
+- INSTAGRAM: v_yudina_art
+- BEHANCE: v_yudina
+
+Thank you for stopping by! 💖
